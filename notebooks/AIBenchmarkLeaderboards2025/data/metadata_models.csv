@@ -1,0 +1,6 @@
+Model,Provider,Release_Date,Size_Params,Modality
+GPT-5,OpenAI,2025-08,undisclosed,text + vision
+Gemini 2.5 Pro Exp,Google DeepMind,2025-04,undisclosed,text + vision
+Claude 4.1 Opus,Anthropic,2025-06,undisclosed,text-only (long context)
+Qwen3-235B,Alibaba,2025-07,235B,text-only
+o3-mini (high),OpenAI,2025-08,undisclosed,text-only

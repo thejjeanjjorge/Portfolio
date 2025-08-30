@@ -1,0 +1,9 @@
+Model,Provider,Benchmark,Score,Unit,Rank,Date,Source,Notes
+GPT-5,OpenAI,Humanity’s Last Exam,25.32,%,1,2025-08-10,Wikipedia,Calibration error 50
+Gemini 2.5 Pro Preview,Google DeepMind,Humanity’s Last Exam,21.64,%,2,2025-08-10,Wikipedia,Calibration error 72
+Qwen3-235B-Thinking,Alibaba,Humanity’s Last Exam,15.43,%,4,2025-08-10,Wikipedia,Calibration error 78
+Claude 4.1 Opus (Thinking),Anthropic,Humanity’s Last Exam,11.52,%,5,2025-08-10,Wikipedia,Calibration error 71
+o3-mini (high),OpenAI,Humanity’s Last Exam,13.37,%,6,2025-08-10,Wikipedia,Calibration error 80
+Gemini 2.5 Pro Exp,Google DeepMind,MMLU-Pro,84.1,%,1,2025-04-15,vals.ai,Reasoning-heavy benchmark
+o1,OpenAI,MMLU-Pro,83.5,%,2,2025-04-15,vals.ai,Competitive with Gemini
+Gemini 2.0 Flash,Google DeepMind,MMLU-Pro,77.4,%,3,2025-04-15,vals.ai,Strong price-performance

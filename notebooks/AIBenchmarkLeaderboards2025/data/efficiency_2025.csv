@@ -1,0 +1,4 @@
+Model,Provider,Metric,Value,Unit,Source
+GPT-5,OpenAI,Max Context Length,256000.0,tokens,Vellum.ai
+Gemini 2.0 Flash,Google DeepMind,Latency,200.0,ms/token,Vellum.ai
+Claude 4.1 Opus,Anthropic,Cost,15.0,$/1M tokens,API Docs
